@@ -1,6 +1,6 @@
 /*
  
-CS50's Pset 1 - Readability
+CS50's Pset 2 - Readability
 by Pedro Moura
 
 */
