@@ -1,6 +1,6 @@
 /*
  
-CS50's Pset 1 - Mario(More)
+CS50's Pset 1 - Credit
 by Pedro Moura
 
 */
