@@ -1,6 +1,6 @@
 /*
  
-CS50's Pset 1 - Caesar
+CS50's Pset 2 - Caesar
 by Pedro Moura
 
 */
